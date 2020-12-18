@@ -3,12 +3,12 @@
 ## Documentation
 **For students and instructors:** When typing predicate logic expressions in
 the program, some special keyboard combinations are used to enter logical
-symbols. See the [special symbols](https://github.com/nyusemantics/LambdaCalculator/wiki/Special-Symbols)
+symbols. See the [special symbols](https://github.com/nyusemantics/LambdaCalculator-Issues/wiki/Special-Symbols)
 guide for entering special symbols for instructions. Some help is also provided
 within the program.
 
 **For Instructors:** If you would like to write an exercise file, you may read
-the [exercises file](https://github.com/nyusemantics/LambdaCalculator/wiki/Exercise-File-Format) documentation
+the [exercises file](https://github.com/nyusemantics/LambdaCalculator-Issues/wiki/Exercise-File-Format) documentation
 for the exercise file format or consult the example0.txt complete and
 documented sample exercise file for instructors
 
