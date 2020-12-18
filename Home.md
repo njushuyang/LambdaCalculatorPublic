@@ -11,4 +11,4 @@ calculator, check out the [Lambda Calculator website](https://lambdacalculator.c
 ## Questions, Issues?
 
 Feel free to email us at champoll@gmail.com with questions, suggestions, bugs,
-etc., or to report an issue on our [Issues](https://github.com/dylnb/LambdaCalculator/issues) page.
+etc., or to report an issue on our [Issues](https://github.com/nyusemantics/LambdaCalculatorPublic/issues) page.
