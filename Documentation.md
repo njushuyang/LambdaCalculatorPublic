@@ -1,4 +1,4 @@
-[The Lambda Calculator](https://lambdacalculator.com)
+[The Lambda Calculator](http://lambdacalculator.com)
 
 ## Documentation
 **For students and instructors:** When typing predicate logic expressions in
