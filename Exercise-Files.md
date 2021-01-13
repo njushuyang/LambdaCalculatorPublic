@@ -5,8 +5,8 @@ any of the files above (or copy and save the text to a blank text file of your
 choosing). Then run the Lambda Calculator, select Open from the Menu Bar, and
 open the exercise file you saved.
 
-You can also [ [[download a zip of all of the sample exercise files here:
-📦]] ](https://github.com/dylnb/LambdaCalculator/blob/master/examples/all-exercises.zip?raw=true)
+You can also [ download a zip of all of the sample exercise files here:
+📦](https://github.com/dylnb/LambdaCalculator/blob/master/examples/all-exercises.zip?raw=true)
 
 If you are an instructor, email us, and we will be happy to send you more
 exercise files. And if you write exercise files yourself, please consider
