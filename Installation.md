@@ -1,6 +1,6 @@
-[The Lambda Calculator](https://lambdacalculator.com)
+[The Lambda Calculator](http://lambdacalculator.com)
 
-For Mac and Windows: just [download](https://lambdacalculator.com/#download)
+For Mac and Windows: just [download](http://lambdacalculator.com/#download)
 and double-click to start. If you are running OS X 10.7.5 (Mountain Lion) or
 later, you may need to temporarily relax your security settings to open the
 application, since it is not from the Mac App Store. In System Preferences >
