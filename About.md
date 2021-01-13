@@ -1,4 +1,4 @@
-[The Lambda Calculator](https://lambdacalculator.com)
+[The Lambda Calculator](http://lambdacalculator.com)
 
 The Lambda Calculator is an interactive, graphical application to help students
 of natural language semantics practice derivations in the typed lambda
