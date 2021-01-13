@@ -1,4 +1,4 @@
-[The Lambda Calculator](https://lambdacalculator.com)
+[The Lambda Calculator](http://lambdacalculator.com)
 
 These documents provide some basic exercises to get you started. Just download
 any of the files above (or copy and save the text to a blank text file of your
