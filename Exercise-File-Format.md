@@ -311,7 +311,7 @@ Superscripts and subscripts may be indicated with the caret (^) and underscore (
 [.DP_1 the [.NP_1 man [that_1 [I [ [.V^0 saw] t_1] ] ] ]]
 ```
 
-Traces and pronouns with indices (t_ _i_, he_ _i_, she_ _i_, it_ _i_, him_ _i_, her_ _i_, himself_ _i_, herself_ _i_, itself_ _i_, his_ _i_, hers_ _i_, its_ _i_, theirs_ _i_) are automatically given the denotation of g(1), g(2), etc. according to the index.
+Traces and pronouns with indices (t_ _i_, he_ _i_, she_ _i_, it_ _i_, him_ _i_, her_ _i_, himself_ _i_, herself_ _i_, itself_ _i_, his_ _i_, hers_ _i_, its_ _i_, theirs_ _i_) are automatically given the denotation of g(1), g(2), etc. according to the index. Traces and pronouns are assigned type e by default, but can also be explicitly assigned a different type, e.g. `t_i<e,t>`. 
 
 Relative pronouns with indices (that_ _i_, what_ _i_, which_ _i_, who_ _i_, such_ _i_) and bare indices (1, 2, 3, ...) are treated as "bare index" terminal nodes for lambda abstraction, following Heim & Kratzer.
 
