@@ -40,7 +40,7 @@ These files recreate the exercises from Heim and Kratzer's _Semantics in Generat
 | [ 🗒 ](files/examples/polymorphism.txt) | <span> Composition with variable types </span> |
 | [ 🗒 ](files/examples/more-exercises/beck10.txt) | <span> Companion file to Beck 2010 (S&P), Quantifiers in Than-Clauses, <br/> doi:10.3765/sp.3.1 </span> |
 | [ 🗒 ](files/examples/more-exercises/champollion_2010.txt) | Champollion 2010 - Quantification and negation in event semantics |
-| [ 🗒 ]files/examples/more-exercises/champollion_dissertation_proposal.txt) | Lucas Champollion's dissertation proposal, Jan 19, 2009 |
+| [ 🗒 ](files/examples/more-exercises/champollion_dissertation_proposal.txt) | Lucas Champollion's dissertation proposal, Jan 19, 2009 |
 | [ 🗒 ](files/examples/more-exercises/chinese_dou_and_cumulative_quantification.txt) | <span> Companion file to "Chinese dou and cumulative quantification" <br/> (Yanyan Sui and Lucas Champollion, MACSIM poster presentation 2010) <br/> --- Lucas Champollion, Apr 6 2010 </span> |
 | [ 🗒 ](files/examples/more-exercises/cresswell76.txt) | Cresswell 1976 adapted |
 | [ 🗒 ](files/examples/more-exercises/gronn-stechow-09.txt) | Implementation of Gronn and von Stechow 2009 |
