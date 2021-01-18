@@ -26,7 +26,7 @@ These files recreate the exercises from Heim and Kratzer's _Semantics in Generat
 
 | File          | Description   |
 | ------------- | ------------- |
-| [ 🗒 ](files/exercises/hk/hk_chapter03.txt) | Ch. 3 -- Semantics and Syntax |
+| [ 🗒 ](files/examples/hk/hk_chapter03.txt) | Ch. 3 -- Semantics and Syntax |
 | [ 🗒 ](https://raw.github.com/dylnb/LambdaCalculator/master/examples/hk/hk_chapter04.txt) | <span> Ch. 4 -- More of English: Nonverbal Predicates, Modifiers, <br/> Definite Descriptions </span> |
 | [ 🗒 ](https://raw.github.com/dylnb/LambdaCalculator/master/examples/hk/hk_chapter05.txt) | Ch. 5 -- Relative Clauses, Variables, Variable Binding |
 | [ 🗒 ](https://raw.github.com/dylnb/LambdaCalculator/master/examples/hk/hk_chapter06.txt) | Ch. 6 -- Quantifiers: Their Semantic Type |
