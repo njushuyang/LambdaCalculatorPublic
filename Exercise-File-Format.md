@@ -287,6 +287,20 @@ The Lambda program will read predicate logic expressions from exercise files. Pr
   <tr><td style="text-align: center">ι</td><td style="text-align: center">I</td></tr>
   </table>
 
+* Set Relations, which can be entered directly, or using symbol combinations according to the table below:
+
+  <table>
+  <tr><th>Set Relation</th> <th>You Type</th></tr>
+  <tr><td style="text-align: center">&#2286;</td><td style="text-align: center">\<\<</td></tr>
+  <tr><td style="text-align: center">&#228A;</td><td style="text-align: center">\<\<\<</td></tr>
+  <tr><td style="text-align: center">&#2284;</td><td style="text-align: center">!\<\<</td></tr>
+  <tr><td style="text-align: center">&#2287</td><td style="text-align: center">\>\></td></tr>
+  <tr><td style="text-align: center">&#228B</td><td style="text-align: center">\>\>\></td></tr>
+  <tr><td style="text-align: center">&#2285</td><td style="text-align: center">!\>\></td></tr>
+  <tr><td style="text-align: center">&#2229</td><td style="text-align: center">^^</td></tr>
+  <tr><td style="text-align: center">&#222A</td><td style="text-align: center">VV</td></tr>
+  </table>
+
 * For example, `Ax.P(x)`, `AxEy.P(x) & Q(y)`, `Lx.P(x)`, `LxLy.P(x,y) & Q(y)`, `Iz.king(z)`. Periods may separate multiple consecutive quantifiers/binders. After quantifiers and binders, a bracketed expression should follow to avoid scope ambiguity.
 * To use capital E, A, L, I, and V as those letters in a constant or variable, precede the letter with a backslash (\) to indicate to the program to treat the letter following like normal, e.g. `H\APPY`, `\L\ITT\L\E`.
 * Function application, which is an expression followed by another expression (usually in parenthesis and separated by a space), such as `[Lx.P(x)] (b)`.
