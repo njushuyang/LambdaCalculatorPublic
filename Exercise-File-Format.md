@@ -291,14 +291,14 @@ The Lambda program will read predicate logic expressions from exercise files. Pr
 
   <table>
   <tr><th>Set Relation</th> <th>You Type</th></tr>
-  <tr><td style="text-align: center">&#2286;</td><td style="text-align: center">\<\<</td></tr>
-  <tr><td style="text-align: center">&#228A;</td><td style="text-align: center">\<\<\<</td></tr>
-  <tr><td style="text-align: center">&#2284;</td><td style="text-align: center">!\<\<</td></tr>
-  <tr><td style="text-align: center">&#2287</td><td style="text-align: center">\>\></td></tr>
-  <tr><td style="text-align: center">&#228B</td><td style="text-align: center">\>\>\></td></tr>
-  <tr><td style="text-align: center">&#2285</td><td style="text-align: center">!\>\></td></tr>
-  <tr><td style="text-align: center">&#2229</td><td style="text-align: center">^^</td></tr>
-  <tr><td style="text-align: center">&#222A</td><td style="text-align: center">VV</td></tr>
+  <tr><td style="text-align: center">&#x2286;</td><td style="text-align: center"><<</td></tr>
+  <tr><td style="text-align: center">&#x228A;</td><td style="text-align: center"><<<</td></tr>
+  <tr><td style="text-align: center">&#x2284;</td><td style="text-align: center">!<<</td></tr>
+  <tr><td style="text-align: center">&#x2287</td><td style="text-align: center">>></td></tr>
+  <tr><td style="text-align: center">&#x228B</td><td style="text-align: center">>>></td></tr>
+  <tr><td style="text-align: center">&#x2285</td><td style="text-align: center">!>></td></tr>
+  <tr><td style="text-align: center">&#x2229</td><td style="text-align: center">^^</td></tr>
+  <tr><td style="text-align: center">&#x222A</td><td style="text-align: center">VV</td></tr>
   </table>
 
 * For example, `Ax.P(x)`, `AxEy.P(x) & Q(y)`, `Lx.P(x)`, `LxLy.P(x,y) & Q(y)`, `Iz.king(z)`. Periods may separate multiple consecutive quantifiers/binders. After quantifiers and binders, a bracketed expression should follow to avoid scope ambiguity.
