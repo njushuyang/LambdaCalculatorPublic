@@ -302,6 +302,7 @@ The Lambda program will read predicate logic expressions from exercise files. Pr
   </table>
 
 * For example, `Ax.P(x)`, `AxEy.P(x) & Q(y)`, `Lx.P(x)`, `LxLy.P(x,y) & Q(y)`, `Iz.king(z)`. Periods may separate multiple consecutive quantifiers/binders. After quantifiers and binders, a bracketed expression should follow to avoid scope ambiguity.
+* For Set Relation examples, `x << y`, `a ^^ b ^^ c`, `i !<< j`, `x VV y`.
 * To use capital E, A, L, I, and V as those letters in a constant or variable, precede the letter with a backslash (\) to indicate to the program to treat the letter following like normal, e.g. `H\APPY`, `\L\ITT\L\E`.
 * Function application, which is an expression followed by another expression (usually in parenthesis and separated by a space), such as `[Lx.P(x)] (b)`.
 * Single Greek letters may be used as constants or variables by preceding the name of the letter with a backslash, as in LaTeX. For instance, `\alpha` for lowercase alpha or `\Omega` for a capital omega. (Not all Greek letters are supported.) Alternatively, Greek letters may be entered directly with a Greek keyboard or by copying and pasting from another source.
